@@ -7,6 +7,16 @@ Palette Jack generates colors based on text descriptions using GPT 3.5.
 
 This is a Flask app based on the Palette Generator project from Colt Steele's OpenAI course on Udemy. Type in a description of a mood, idea, place or anything and this app will generates 2 to 8 colors that fit your description.
 
+## Usage
+
+Type in a descripiton of a mood, idea, place or anything and this app will generates 2 to 8 colors that fit your description.
+
+Click a color to add the Hex Code to your clipboard.
+
+By default Palette Jack will adds to the existing palette when you click Submit. To start fresh, check the 'Replace' checkbox and submit a new prompt and all the colors will be cleared before rendering new colors.
+
+Right click a color to delete it from the palette.
+
 ## Installation
 
 1. Clone the repository to your local machine:
