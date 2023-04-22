@@ -1,4 +1,4 @@
-```
+
 # Palette Jack
 
 Palette Jack is a color palette generator Flask web app based on the Palette Generator project from Colt Steele's OPEN AI course on Udemy. Type in a description of a mood, idea, place or anything and this app will generates 2 to 8 colors that fit your description.
