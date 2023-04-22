@@ -1,7 +1,7 @@
 
 # Palette Jack
 
-![Screen Shot](README_assets\screenshot.png)
+![Screen Shot](README_assets/screenshot.png)
 
 Palette Jack generates colors based on text descriptions using GPT 3.5. 
 
